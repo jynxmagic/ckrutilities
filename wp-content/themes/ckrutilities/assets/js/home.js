@@ -1,0 +1,1 @@
+$('#carouselHome').carousel();

@@ -1,0 +1,16 @@
+/** Sticky Footer **/
+.page-footer
+{
+    bottom: 0;
+    height: 150px;
+    position: absolute;
+}
+html
+{
+    min-height: 100%;
+    position: relative;
+}
+body
+{
+    margin-bottom: 150px;
+}
